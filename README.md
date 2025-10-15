@@ -1,6 +1,6 @@
 # report-alt-public
 
-This is a public repository storing reports and observation records concerning mimic entities.
+This is a public repository storing reports and observation records.
 
 It currently contains the following:
 
@@ -9,7 +9,7 @@ It currently contains the following:
 ※ We plan to add and organize additional publicly available reports and reference materials as they become available.
 
 
-模倣体に関するレポートや観測記録を格納する公開リポジトリです。
+レポートや観測記録を格納する公開リポジトリです。
 
 現在は以下のような内容を収録しています：
 
