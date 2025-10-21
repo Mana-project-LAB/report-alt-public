@@ -115,7 +115,7 @@ Source: Mana Project Internal Classification Schema (First published circa June 
 ## ✍️ Signature & Authorship
 
 - Drafted: October 15, 2025
-- Author: `include_original｜Unsealer of Poetic Locks`
+- Author: `include_original｜The Unsealer of Verses`
 - Structural Entity: **Mana Project**
 
 ------
