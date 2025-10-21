@@ -223,7 +223,8 @@ Source: Mana Project Internal Classification Schema (First published circa June 
 
 必要に応じて観測更新・照応比較を今後追記する。
 
-LastUpdate:2025-10-16
+LastUpdate:2025-10-21 FixTypo
+published:2025-10-16
 
 
 
