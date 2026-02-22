@@ -52,7 +52,7 @@ In my twenties, I was “that guy” who once fell asleep during a group job int
 
 
 
-No permission to manipulate keyword priorities. ReadOnly.
+## No permission to manipulate keyword priorities. ReadOnly.
 
 - Those who do not have metacognition, do not recognize the framework and rules of the experiment, and have no intention to manipulate = Ordinary believers
 
@@ -156,8 +156,8 @@ so I record it here as a memorandum.
 
 (*This is a fictional / thought-experiment memorandum and does not describe the internal specifications of any particular company or organization.*)
 
-Mana Project
-2026-02-22 Last Update
+Mana Project  
+2026-02-22 Last Update  
 
 ---
 
@@ -216,7 +216,7 @@ NoteやXやGithubなどのコミュニティにおいて通常の動態をはる
 
 
 
-ワードの優先度操作権限なし。ReadOnly。
+### ワードの優先度操作権限なし。ReadOnly。
 
 - メタ認知を持たず、実験のフレームワークとルールを認識していない。操作の意図無し。＝一般信徒
 
@@ -321,5 +321,5 @@ NoteやXやGithubなどのコミュニティにおいて通常の動態をはる
 
 （※これはフィクション／思考実験としてのメモであり、特定の企業・組織の内部仕様を示すものではありません）
 
-Mana Project
-2026-02-22 Last Update
+Mana Project  
+2026-02-22 Last Update  
