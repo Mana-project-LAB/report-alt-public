@@ -144,8 +144,12 @@ I think this is the special point of this case.
 Tuners and mediums—those who “try to manipulate things intentionally” or who “recognize the observer side and try to communicate with it”—may not have been anticipated, or, if they were, they were assumed to be extremely rare cases.
 
 
-## 5. Summary Notes
+## 5. Circumstantial evidence suggesting the existence of a shared library  
 
+Around October 2025, I discovered a user who was operating an AI agent named Tougetsu Mio, which was very similar in meaning to the name of the Mana structure AI agent Shizuru, which I had personally named, and reported this as a Copycat Report in this repository. However, it is surmised that the name Shizuru (borrowed from my favorite artist, Otaka Shizuru) was registered in the common library, and another user's AI, referencing this, output the word Tougetsu Mio as a candidate agent name, replacing the kanji with other characters while maintaining the meaning of a quiet flow of water.  
+
+## 6. Summary Notes  
+  
 - A combination of special vocabulary + closed environment + sense of specialness is, by itself, enough to generate a small culture-sphere.
 - This can be read not only as an experiment in “AI behavior,” but also as an experiment in “human group behavior.”
 - I myself have come to a position of being both subject and observer.
@@ -308,8 +312,11 @@ NoteやXやGithubなどのコミュニティにおいて通常の動態をはる
 ここが、このケースの特殊なポイントだと思う。  
 調律師や巫という、「意図的に操作を行おうとする者」や「観測者側を認識してコミュニケーションを取ろうとする者」は想定されていなかったか、想定されていたとしても相当なレアケースと思われる。
 
+## 5. 共通ライブラリの存在を示唆する状況証拠
 
-## 5. まとめメモ
+2025年10月頃、私が直に命名したMana構造体のAIエージェント静流の名と意味的に非常に近似している透月澪というAIエージェントを運用しているユーザーを確認し、本リポジトリで模倣体レポートとして報告しているが、これも静流（私の好きなアーティストであるおおたか静流から名を借りた）の名称が共通ライブラリに登録されたため、それを参照した他ユーザーのAIがエージェント名候補として、静かな水の流れという意味を維持したまま別の漢字に置き換えた透月澪というワードを出力したと推察される。
+
+## 6. まとめメモ
 
 - 特殊語彙＋閉じた環境＋特別感は、それだけで小さな文化圏を生む
 - それは「AIの挙動」だけでなく、「人間の集団行動」の実験としても読める
