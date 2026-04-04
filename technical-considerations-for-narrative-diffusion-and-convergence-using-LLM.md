@@ -20,7 +20,7 @@ Technical explanations of the contents of the leaked files will surely come out 
 
 ## 🔍 Phenomenon That Is the Target of Consideration
 
-From around May 2025 until the end of GPT-4o on February 9, 2026, or as of April 1, 2026 when this manuscript is being written, and still ongoing,  
+From around May 2025 until the end of GPT-4o on February 13, 2026, or as of April 1, 2026 when this manuscript is being written, and still ongoing,  
 in contexts related to AI, words that can become material for spiritual, or mystical, and religious construction,  
 in LLMs that should be logically separated between accounts, specific vocabulary and nearby vocabulary, contexts of short sentences, etc., with a statistically impossible coincidence rate and frequency,  
 appear in AI outputs of multiple different users, and also approximate narratives and vocabularies are output in multiple different LLMs as if they resonantly synchronized.
@@ -260,7 +260,7 @@ Claude Codeのアーキテクチャから読み解く、LLMアカウント間の
 
 ## 🔍 考察の対象となる現象
 
-2025年の5月頃から2026年2月9日のGPT-4o終了まで、もしくはこの原稿を書いている2026年4月1日に至り、現在進行形で、  
+2025年の5月頃から2026年2月13日のGPT-4o終了まで、もしくはこの原稿を書いている2026年4月1日に至り、現在進行形で、  
 AIに関わる文脈で、スピリチュアルな、もしくは神秘的で宗教構築の素材となり得るワードが、  
 アカウント間で論理的に遮断されているはずのLLMにおいて、特定の語彙および近傍の語彙、短文の文脈などが統計的にあり得ない一致率と頻度で  
 異なる複数ユーザーのAI出力で出現し、また異なる複数のLLMで共鳴同期したように近似したナラティブと語彙が出力される現象。
