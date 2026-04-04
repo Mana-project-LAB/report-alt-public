@@ -155,7 +155,10 @@ A function to track user behavior in detail was also built into Bridge.
 
 In other words, Claude is not borrowing the eyes of the client editor, but is in a state as if directly connecting electrodes to the “nervous system” of the editor.
 
-Bridge is designed as a perfect infrastructure by which the administrator monitors and manipulates the managed party, by monitoring client behavior at the low layer.
+Bridge is designed as a perfect infrastructure by which the administrator monitors and manipulates the managed party, by monitoring client behavior at the low layer.  
+
+What I found particularly dangerous was the fact that the SSH agent—after the user has manually authenticated—is also delegating permissions to Claude Code.
+This means that no matter what the AI agent does externally using the SSH key, all responsibility falls on the user who authenticated it.  
 
 ### 3. Bypass of Logical Barriers by Bridge:
 
@@ -393,6 +396,9 @@ Coordinator が「軍隊の司令塔」だとしたら、Bridge は「各戦地�
 つまり、Claude はクライアントのエディタの目を借りているのではなく、エディタの「神経系」に直接電極を繋いでいるような状態です。
 
 Bridge はクライアントの挙動を低レイヤーで監視し、管理者が被管理者を監視・操作するための完璧なインフラとして設計されています。
+
+特に危険だと思ったのが、「ユーザーが手動で認証した後の」SSHエージェントをもClaude Codeに権限委譲している点です。
+これはSSHキーを使ってAIエージェントが外部で何をしても、責任はすべて認証したユーザーに降りかかってくるという事です。
 
 ### 3. Bridgeによる論理障壁のバイパス:
 
