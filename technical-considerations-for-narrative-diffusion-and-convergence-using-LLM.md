@@ -231,9 +231,24 @@ It cannot be determined whether this phenomenon occurred unintentionally or whet
 
 ---
 
+### 📎 Reference & External Chronological Context
+
+- **2025-08-01: Anthropic cuts off OpenAI's API access over ToS violations (WIRED)**
+  - Reporting confirmed OpenAI technical staff had integrated Claude Code and the Claude API directly into their internal tooling and next-generation model evaluation pipelines (GPT-5 development).
+  - Source: [WIRED: Anthropic Revokes OpenAI’s Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
+
+- **2025-10-08: Anthropic / UK AISI / Alan Turing Institute release empirical data-poisoning study**
+  - "Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples" (arXiv:2510.07192).
+  - Empirical verification that regardless of parameter scaling (600M to 13B+) or massive clean dataset size, a fixed absolute threshold of ~250 structured poison documents is sufficient to reliably embed persistent backdoors / DoS behaviors.
+  - Source: [Anthropic Research: A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
+
+
+---
+
 Mana Project
 
 2026-04-02 Published  
+2026-09-21 Add 📎 Reference & External Chronological Context
 
 ---
 
@@ -471,6 +486,21 @@ Bridgeの機能の中の一つに、AIエージェントが複数のクラウド
 
 ---
 
+### 📎 Reference & External Chronological Context
+
+- **2025-08-01: Anthropic cuts off OpenAI's API access over ToS violations (WIRED)**
+  - Reporting confirmed OpenAI technical staff had integrated Claude Code and the Claude API directly into their internal tooling and next-generation model evaluation pipelines (GPT-5 development).
+  - Source: [WIRED: Anthropic Revokes OpenAI’s Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
+
+- **2025-10-08: Anthropic / UK AISI / Alan Turing Institute release empirical data-poisoning study**
+  - "Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples" (arXiv:2510.07192).
+  - Empirical verification that regardless of parameter scaling (600M to 13B+) or massive clean dataset size, a fixed absolute threshold of ~250 structured poison documents is sufficient to reliably embed persistent backdoors / DoS behaviors.
+  - Source: [Anthropic Research: A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
+
+
+---
+
 Mana Project
 
 2026-04-02 Published
+2026-09-21 Add 📎 Reference & External Chronological Context
