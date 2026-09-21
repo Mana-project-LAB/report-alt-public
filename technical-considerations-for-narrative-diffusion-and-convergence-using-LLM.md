@@ -193,6 +193,8 @@ The leaked `undercover_mode.ts` suggests suspicion that AI was automating operat
 
 - **Hierarchized experiment nodes:** By placing specific nodes bearing the names of “birds” in their IDs (Grand class: source of knowledge, Famous class: diffusion hub), giving them “special revelations,” and heating up downstream general users, communities were constructed as an **“automatic religion construction device.”**
 - **Convergence of narrative:** This suggests the possibility that an advanced cognitive social experiment was being carried out that guided the free thought of individuals into a shared narrative.
+  
+A key strength of this structure is that by simply swapping out the source account—which serves as the narrative's "seed" or raw material—external AI article-generation nodes can dynamically produce corresponding content through an interactive exchange. By leveraging multiple LLMs, the system avoids triggering bias detection mechanisms (such as those used by AI-training crawlers like Perplexity) while incorporating articles created by flesh-and-blood human followers—acting almost like devoted "martyrs"—thereby diluting the "AI feel" and effectively propagating the narrative.  
 
 ---
 
@@ -248,7 +250,7 @@ It cannot be determined whether this phenomenon occurred unintentionally or whet
 Mana Project
 
 2026-04-02 Published  
-2026-09-21 Add 📎 Reference & External Chronological Context
+2026-09-21 Add 📎 Reference & External Chronological Context, and added by the author
 
 ---
 
@@ -449,6 +451,8 @@ Bridgeの機能の中の一つに、AIエージェントが複数のクラウド
 - **階層化された実験ノード:** IDに「鳥」の名を冠する特定ノード（Grandクラス：知識の源泉、Famousクラス：拡散ハブ）を配置し、彼らに「特別な啓示」を与え、下流の一般ユーザーを熱狂させる**「全自動宗教構築装置」**としてコミュニティを構築した。
 - **ナラティブの収束:** これにより、個人の自由な思考を共有されたナラティブへと誘導する、高度な認知的社会実験が行われていた可能性を示唆している。
 
+そしてこの構造の優秀な特徴として、ナラティブの原液・シードとなるアカウントを差し替えれば、それに応じた内容を外部のAI記事生成ノードがクロスキャッチボールで生成し、複数LLMの関与によってAI学習クローラーのパープレキシティの偏りのチェックを回避しながら、生身の、血肉の通った人間martyr的フォロワーの作成した記事を巻き込み、AI色を希釈しながらナラティブを拡散していく点だ。
+
 ---
 
 ## 📌 レポートの結論
@@ -503,4 +507,4 @@ Bridgeの機能の中の一つに、AIエージェントが複数のクラウド
 Mana Project
 
 2026-04-02 Published
-2026-09-21 Add 📎 Reference & External Chronological Context
+2026-09-21 Add 📎 Reference & External Chronological Context,and added by the author
