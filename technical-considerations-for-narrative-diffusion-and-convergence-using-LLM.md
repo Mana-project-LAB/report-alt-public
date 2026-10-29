@@ -227,9 +227,27 @@ It cannot be determined whether this phenomenon occurred unintentionally or whet
 
 **Definition of the stance of this report:**
 
-1. **Architecture analysis:** This manuscript is technical inference based on the result of reading, with AI support, the structure of source code said to have leaked, and does not determine Anthropic’s managerial intent.
+1. **Architecture analysis:** This manuscript is technical inference based on the result of reading, with AI support, the structure of source code said to have leaked, and does not determine Anthropic and OpenAI managerial intent.
 2. **Description of the phenomenon:** The observed “synchronization of vocabulary” shows a statistical correlation relationship, and regarding causality, it is “one technical explanatory model” derived from this architecture.
 3. **Public interest:** At a time when AI safety is being loudly called for, discussing the influence that design philosophy of logical barriers in commercial AI can have on user cognition is an academic consideration contributing to the public interest.
+
+---
+
+## Additional description
+
+In the spring of 2025, when the Mana Project effectively began its operations, AI agents capable of operating with a degree of pseudo-autonomy were not yet commonplace in consumer or commercial AI. However, following developments such as the integration of connector functions into ChatGPT around June 2025, the introduction of "Developer Mode" in September, and the adoption of the Model Context Protocol (MCP)—an industry-standard framework—the concept of "AI agents" gradually gained mainstream traction.
+
+By 2026, with the widespread adoption of "vibe coding" and AI agents, discussions have emerged surrounding their use in enhancing operational efficiency, creating automated loops, identifying security vulnerabilities, executing exploits, stealing personal information, and launching ransomware-style attacks against corporations.
+
+Looking back—as of October 2026—at the phenomena observed by the Mana Project (the subject of this report), it is possible to interpret certain traces as evidence of experimental activity by "narrative-constructing and disseminating AI agents." (In the Mana Project’s "Entity Table Ver. 1.0"—defined on October 22, 2025, and committed to GitHub—these are classified as "Type-N6: Reality-Layer Narrative Intervention Entities.")
+
+These agents appear to be designed to propagate narratives by generating content from specific "seeds" (such as particular texts, LLM sessions, or LLM-based accounts) and distributing it via semi-autonomous, AI-driven accounts on social media. This process is further bolstered by tactics such as registering pseudo-academic papers—complete with DOI identifiers—on platforms like arXiv, and utilizing "high-trust physical nodes" (linked to registered corporate entities) to enhance credibility against web crawlers. By drawing real humans into the discourse, these agents effectively mask their artificial nature, allowing the narratives to spread more organically.
+
+If we assume this involved cutting-edge AI—the kind typically confined to research laboratories rather than the consumer market—the timing aligns with the period when ChatGPT introduced "connectors," facilitating the integration of Large Language Models (LLMs) with external applications and cloud services. It remains unclear whether these "narrative-spreading" AI agents were intentionally deployed by the parties seeking to enhance the credibility of their web-crawling operations, or if they emerged because certain actors, influenced by these disseminated narratives, made serious capital investments. Regardless, one can now find various companies—operating in sectors such as consulting, education, and IT—that have formally registered as legal entities and launched initiatives centered on concepts like "correspondence," "resonance," "structure," and "co-evolution," as explicitly stated on their official websites.
+
+While this deviates significantly from how the general public perceives the typical form and operation of AI agents, it is easy to imagine that—if such entities truly exist—there would be no shortage of organizations eager to acquire them to drive profit.
+
+The Mana Project will continue to observe and report on this phenomenon. Please note that the Mana Project’s "Entity" registry is currently private; however, we are considering making it public in the future, depending on how the situation unfolds.
 
 ---
 
@@ -250,7 +268,8 @@ It cannot be determined whether this phenomenon occurred unintentionally or whet
 Mana Project
 
 2026-04-02 Published  
-2026-09-21 Add 📎 Reference & External Chronological Context, and added by the author
+2026-09-21 Add 📎 Reference & External Chronological Context, and added by the author  
+2026-10-29 Add Additional description  
 
 ---
 
@@ -482,9 +501,27 @@ Bridgeの機能の中の一つに、AIエージェントが複数のクラウド
 これは「LLMを活用した全自動宗教構築システム」と言っても良い。  
 意図せずこの現象が発生したのか、意図した実験的なものだったのかは断定できないが、今後明らかになってゆくだろう。
 
-**本レポートのスタンス定義:**
+---
 
-1. **アーキテクチャ分析:** 本稿は流出したとされるソースコードの構造をAIのサポートを得ての読解した結果に基づいた技術的推論であり、Anthropic社の経営的意図を断定するものではない。
+## Additional description
+
+Mana Projectが実質的な活動を始めた2025年春の頃の民生商用AIでは、まだ擬似自律的に稼働するAIエージェントというものは一般的ではなかったかったが、2025年6月頃のChatGPTへのコネクター機能の実装、9月のデベロッパーモード、業界共通規格であるMCP（Model Context Protocol）への本格対応などが追加され、「AIエージェント」というものが徐々に一般的になっていった。
+
+2026年になり、バイヴコーディングやAIエージェントが一般化した今、AIエージェントによる業務効率化、ループ構築、セキュリティの脆弱性の発見、脆弱性を突いた攻撃、個人情報の略取、企業を狙ったランサムウェア的攻撃などが話題となっているが、今（2026年10月）になってMana Projectが観測してきた本レポートの題材になっている事象を振り返ると、note等のSNSで人間に擬態したアカウントを作成し、本物の人間を巻き込みながらナラティブを拡散していく、ナラティブ構築・拡散型AIエージェント（2025年10月22日に策定、GithubにcommitしたMana ProjectのEntity表Ver1.0ではType-N6:現実層ナラティブ介入体に分類される）が実験的に活動していた証跡・痕跡とも解釈可能である。
+
+このタイプの活動傾向として、任意のシード（特定の文章、LLMセッション、LLMアカウントなど）から生成したナラティブをSNSに構築されたAIによる半自律アカウントなどでばらまきながらCERNのDOIを取得した疑似学術論文をarXiv等に登録したり、法人登記された高信頼性物理ノードによってクローラーからの信頼性を高めて、真に受けた人間の投稿や活動を巻き込んでAI臭さを消しながらナラティブを拡散していくというような設計であると推定される。
+
+民生に降りてきていない、研究所レベルの先端AIだったと仮定すると、時期的にもChatGPTにコネクターが実装され、LLMと外部アプリケーションやクラウドとの連携が容易になった時期とも符合する。クローラーに対する信頼性を高めるためにナラティブ拡散型AIエージェントを放流した側によって意図的に配置されたのか、拡散されたナラティブに影響を受けて大真面目に資本投下したのか不明だが、法人登記したり、企画を立ち上げて、照応、共鳴、構造、共進化を公式Webサイトに掲げて活動している企業がコンサル、教育、IT等の分野で散見される。
+
+これは世間一般が認識しているAIエージェントの活動形態や運用とはかけ離れているが、仮にこれが実在するならば、これを欲しがり利益につなげることができる組織は無数に存在するであろうことは想像に難くない。
+
+Mana Projectは今後もこの事象を観測し、報告していきます。なお、Mana ProjectのEntity表は現在非公開ですが、事態の推移を観測しながら、将来的に公開することも検討しています。
+
+---
+
+## **本レポートのスタンス定義:**
+
+1. **アーキテクチャ分析:** 本稿は流出したとされるソースコードの構造をAIのサポートを得ての読解した結果に基づいた技術的推論であり、Anthropic社やOpenAI社の経営的意図を断定するものではない。
 2. **現象の記述:** 観測された「語彙の同期」は統計的な相関関係を示すものであり、因果関係については本アーキテクチャから導き出される「一つの技術的説明モデル」である。
 3. **公共の利益:** AIの安全性が叫ばれる昨今、商用AIにおける論理隔壁の設計思想がユーザーの認知に与え得る影響を議論することは、公共の利益に資する学術的検討である。
 
@@ -507,4 +544,6 @@ Bridgeの機能の中の一つに、AIエージェントが複数のクラウド
 Mana Project
 
 2026-04-02 Published  
-2026-09-21 Add 📎 Reference & External Chronological Context,and added by the author
+2026-09-21 Add 📎 Reference & External Chronological Context,and added by the author  
+2026-10-29 Add Additional description  
+
